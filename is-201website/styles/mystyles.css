@@ -1,0 +1,46 @@
+body{
+    background-color: #D3D3D3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.video{
+    margin-left: 200px;
+
+
+}
+
+.anchor{
+    text-align: center;
+}
+
+.list{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style-type: circle;
+
+}
+.interests{
+    text-align: center; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.photos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.photos img{
+    width: 30%;
+    height: auto;
+
+}
+.byulogo{
+    display: flex;
+    justify-content: center;
+
+    padding-top: 4rem;
+    padding-bottom: 5rem;
+}
+.byulogo img{
+    width: 30%;
+    height: auto;
+
+}
